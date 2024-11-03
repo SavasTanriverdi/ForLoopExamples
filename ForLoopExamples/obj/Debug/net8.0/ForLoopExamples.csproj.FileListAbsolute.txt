@@ -1,0 +1,14 @@
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\bin\Debug\net8.0\ForLoopExamples.exe
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\bin\Debug\net8.0\ForLoopExamples.deps.json
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\bin\Debug\net8.0\ForLoopExamples.runtimeconfig.json
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\bin\Debug\net8.0\ForLoopExamples.dll
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\bin\Debug\net8.0\ForLoopExamples.pdb
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.AssemblyInfoInputs.cache
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.AssemblyInfo.cs
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.csproj.CoreCompileInputs.cache
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.dll
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\refint\ForLoopExamples.dll
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.pdb
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ForLoopExamples.genruntimeconfig.cache
+C:\Users\savas\RiderProjects\ForLoopExamples\ForLoopExamples\obj\Debug\net8.0\ref\ForLoopExamples.dll
